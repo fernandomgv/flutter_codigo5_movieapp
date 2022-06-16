@@ -300,7 +300,7 @@ class _MovieDetailPageState extends State<MovieDetailPage> {
                               ),
                             ),
                             label: Text(
-                              "movie trailers",
+                              "Movie trailers",
                               style: TextStyle(
                                 color: kBrandPrimaryColor,
                                 fontWeight: FontWeight.w700,
